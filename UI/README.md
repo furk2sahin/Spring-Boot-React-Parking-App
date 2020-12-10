@@ -2,7 +2,7 @@
 
 # Live on
 
-[reactbootcamp66-furk2sahin-bitirme-odevi.vercel.app](https://reactbootcamp66-furk2sahin-bitirme-odevi.vercel.app)
+[reactbootcamp66-bitirme-odevi-furk2sahin.netlify.app](https://reactbootcamp66-bitirme-odevi-furk2sahin.netlify.app/login)
 
 ## Parking owner accounts:
 
@@ -15,6 +15,11 @@ Account 2;
 
   username: owner2
   password: owner2
+  
+  Account 3;
+
+  username: owner3
+  password: owner3
 
 ## User accounts:
 
