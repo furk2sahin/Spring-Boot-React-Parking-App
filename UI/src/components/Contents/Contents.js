@@ -32,6 +32,7 @@ const Contents = ({
     users,
     updateBlacklist
 }) => {
+    contents.sort((content1, content2) => { return Number(content1.id) - Number(content2.id) })
     return (
         <Grid stackable>
             {
