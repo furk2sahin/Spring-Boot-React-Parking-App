@@ -7,7 +7,7 @@ const config = {
 }
 
 const instance = axios.create({
-    baseURL: 'https://furk2sahin-parking-app-backend.herokuapp.com/api'
+    baseURL: 'http://localhost:8080/api'
 })
 
 //parking_owner
